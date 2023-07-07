@@ -1,4 +1,4 @@
-from .mycog import MyCog
+from .mycog import dmmail
 
 
 async def setup(bot):
