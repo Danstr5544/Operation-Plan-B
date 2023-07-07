@@ -1,4 +1,4 @@
-from .mycog import dmmail
+from .planb import dmmail
 
 
 async def setup(bot):
